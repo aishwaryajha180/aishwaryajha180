@@ -15,40 +15,28 @@
 - 🌱 Currently learning new technologies.
 - 💻 Working on AI and Machine Learning projects.
 - 🚀 Project: AI Demand Forecasting.
-- 🤝 Interested in Problem Solving and Open Source.
+- 🤝 Interested in Problem Solving and Open Source Contribution.
+- 🎯 My goal is to become a skilled Software Developer.
+
+---
 
 ### 🔗 Connect With Me
 
 <p align="left">
-<a href="https://github.com/aishwaryajha180">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-</a>
-</p>
-
-### 🛠️ Languages and Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,java,mysql,git,github,vscode"/>
+  <a href="https://github.com/aishwaryajha180">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Languages and Tools
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aishwaryajha180&show_icons=true&theme=tokyonight"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,django,flask,mongodb,mysql,git,github,vscode"/>
 </p>
 
-### 💻 Most Used Languages
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryajha180&layout=compact&theme=tokyonight"/>
-</p>
+<h3 align="center">✨ Keep Learning | Keep Building | Keep Growing ✨</h3>
 
-### 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=aishwaryajha180&theme=tokyonight"/>
-</p>
-
-<h3 align="center">✨ Keep Learning | Keep Growing ✨</h3>
